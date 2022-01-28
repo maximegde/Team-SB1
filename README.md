@@ -1,6 +1,6 @@
-Meet-EU Team SB1 Sorbonne University
+# Meet-EU Team SB1 Sorbonne University
 
-Topic B : Detection of chromosome compartments
+**Topic B : Detection of chromosome compartments**
 
 Description of the project: 
 Project of the inter-university collaborative course Meet-EU 2021/2022. It concerns the detection of chromatin compartments, based on Hi-C intra chromosomal contacts maps in different resolutions. We present data pre-processing pipeline, already known and confirmed detection method of 2 basic chromosome compartments active (euchromatin) and inactive(heterochromatine) , as well as some methods to detect subcompartments and define their optimal number. 
@@ -42,15 +42,7 @@ Results visualisation:
 
 
 
-
-
-
-
 ![3](https://user-images.githubusercontent.com/78046860/151583182-fe0f995a-5629-41c9-83f4-361a8b45a6d8.png)
-
-
-
-
 
 
 
